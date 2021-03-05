@@ -1,0 +1,15 @@
+C:\Users\NERY MARTINEZ\source\repos\adivinar la fecha de cumpleaños\adivinar la fecha de cumpleaños\bin\Debug\net5.0\adivinar la fecha de cumpleaños.exe
+C:\Users\NERY MARTINEZ\source\repos\adivinar la fecha de cumpleaños\adivinar la fecha de cumpleaños\bin\Debug\net5.0\adivinar la fecha de cumpleaños.deps.json
+C:\Users\NERY MARTINEZ\source\repos\adivinar la fecha de cumpleaños\adivinar la fecha de cumpleaños\bin\Debug\net5.0\adivinar la fecha de cumpleaños.runtimeconfig.json
+C:\Users\NERY MARTINEZ\source\repos\adivinar la fecha de cumpleaños\adivinar la fecha de cumpleaños\bin\Debug\net5.0\adivinar la fecha de cumpleaños.runtimeconfig.dev.json
+C:\Users\NERY MARTINEZ\source\repos\adivinar la fecha de cumpleaños\adivinar la fecha de cumpleaños\bin\Debug\net5.0\adivinar la fecha de cumpleaños.dll
+C:\Users\NERY MARTINEZ\source\repos\adivinar la fecha de cumpleaños\adivinar la fecha de cumpleaños\bin\Debug\net5.0\ref\adivinar la fecha de cumpleaños.dll
+C:\Users\NERY MARTINEZ\source\repos\adivinar la fecha de cumpleaños\adivinar la fecha de cumpleaños\bin\Debug\net5.0\adivinar la fecha de cumpleaños.pdb
+C:\Users\NERY MARTINEZ\source\repos\adivinar la fecha de cumpleaños\adivinar la fecha de cumpleaños\obj\Debug\net5.0\adivinar la fecha de cumpleaños.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NERY MARTINEZ\source\repos\adivinar la fecha de cumpleaños\adivinar la fecha de cumpleaños\obj\Debug\net5.0\adivinar la fecha de cumpleaños.AssemblyInfoInputs.cache
+C:\Users\NERY MARTINEZ\source\repos\adivinar la fecha de cumpleaños\adivinar la fecha de cumpleaños\obj\Debug\net5.0\adivinar la fecha de cumpleaños.AssemblyInfo.cs
+C:\Users\NERY MARTINEZ\source\repos\adivinar la fecha de cumpleaños\adivinar la fecha de cumpleaños\obj\Debug\net5.0\adivinar la fecha de cumpleaños.csproj.CoreCompileInputs.cache
+C:\Users\NERY MARTINEZ\source\repos\adivinar la fecha de cumpleaños\adivinar la fecha de cumpleaños\obj\Debug\net5.0\adivinar la fecha de cumpleaños.dll
+C:\Users\NERY MARTINEZ\source\repos\adivinar la fecha de cumpleaños\adivinar la fecha de cumpleaños\obj\Debug\net5.0\ref\adivinar la fecha de cumpleaños.dll
+C:\Users\NERY MARTINEZ\source\repos\adivinar la fecha de cumpleaños\adivinar la fecha de cumpleaños\obj\Debug\net5.0\adivinar la fecha de cumpleaños.pdb
+C:\Users\NERY MARTINEZ\source\repos\adivinar la fecha de cumpleaños\adivinar la fecha de cumpleaños\obj\Debug\net5.0\adivinar la fecha de cumpleaños.genruntimeconfig.cache

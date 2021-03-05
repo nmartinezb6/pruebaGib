@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "adivinar la fecha de cumpleaños/1.0.0": {
+        "runtime": {
+          "adivinar la fecha de cumpleaños.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "adivinar la fecha de cumpleaños/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
